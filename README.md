@@ -9,7 +9,7 @@ I choose Sydney dataset for this particular project with 2 datasets I have colle
 
 1. The Airbnb market in Sydney, Australia is becoming more concentrated. Comparing to 2021 with over 27,000 listings, the number witnessed strong dip to just about 11,300 listings as end of Jun’ 2024.
 The increasingly tightened policy on short-term rental can be both a barrier and an advantage for hosts in Sydney.
-2. Price factors: Compared to 2021 in which the average price was AUD 100 and it slightly peaked during festive months of November — January, the price in 2024 does not have seasonality factor which is kept at over AUD 300. Location and facitlity characteristics are other factors affecting price per night of a listing.
+2. Price factors: Location and facitlity characteristics are other factors affecting price per night of a listing.
 3. Occupancy factors: Location plays an important part in determining booking rate, the occupancy is much more concentrated in CBD & East and a few surrounding areas. Accountability factors such as host profile and reviews also shows strong correlation with the occupancy rate.
 
 ## Findings and suggestions
