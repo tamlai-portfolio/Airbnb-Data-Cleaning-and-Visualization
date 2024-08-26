@@ -3,7 +3,21 @@ This project use the public data from Inside Airbnb (a non-commercial website th
 I choose Sydney dataset for this particular project with 2 datasets I have collected from 2021 and 2024 to have some comparison over time.
 - Full-length presentation article: [Airbnb Landscape in Sydney — Does less means more?](https://medium.com/@tamlai.ftu/airbnb-landscape-in-sydney-does-less-means-more-add454cb54f4)
 - Full interactive dashboard: [Sydney Airbnb Landscape](https://tinyurl.com/PowerbiSydney-Airbnb)
-Full data cleaning, and calculation process: [Data cleaning.ipynb](https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/cleaning_syd.ipynb)
+- Full data cleaning, and calculation process: [Data cleaning.ipynb](https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/cleaning_syd.ipynb)
+
+## Analysis excecutive summary
+
+1. The Airbnb market in Sydney, Australia is becoming more concentrated. Comparing to 2021 with over 27,000 listings, the number witnessed strong dip to just about 11,300 listings as end of Jun’ 2024.
+The increasingly tightened policy on short-term rental can be both a barrier and an advantage for hosts in Sydney.
+2. Price factors: Compared to 2021 in which the average price was AUD 100 and it slightly peaked during festive months of November — January, the price in 2024 does not have seasonality factor which is kept at over AUD 300. Location and facitlity characteristics are other factors affecting price per night of a listing.
+3. Occupancy factors: Location plays an important part in determining booking rate, the occupancy is much more concentrated in CBD & East and a few surrounding areas. Accountability factors such as host profile and reviews also shows strong correlation with the occupancy rate.
+
+## Findings and suggestions
+1. The new regulation on licensing come as both barrier and opportunity for Airbnb host in Sydney.
+2. For hosts who look to set foot into the market, it is obvious that demand is still very high and the market is now have less sturated than 3 years ago. Well-equipped of regulations knowledge and choosing right locations can provide a good headstart.
+3. For host who currently in the market, compliance can no longer be ignored. Besides, while the number of listings are still limited, it is good time to gather testimonials to help the listings stay on top even when there are new players step in. As the bar is very high for reviews score, over 4.0 is considered to be the starting point to differentiate.
+4. Pricing can be a tricky part while it becomes more expensive to run an Airbnb listing, finding the right spot for pricing helps to improve the booking rate.
+
 
 ## Dataset overview
 The dataset include 3 main csv files and 1 geojson file for map illustration:
@@ -14,12 +28,6 @@ The dataset include 3 main csv files and 1 geojson file for map illustration:
 
 ## Problem statement
 What is the landscape of Airbnb listing in Sydney, Australia? What are the factors that affect the revenue of listings?
-
-## Findings and suggestions
-1. The new regulation on licensing come as both barrier and opportunity for Airbnb host in Sydney.
-2. For hosts who look to set foot into the market, it is obvious that demand is still very high and the market is now have less sturated than 3 years ago. Well-equipped of regulations knowledge and choosing right locations can provide a good headstart.
-3. For host who currently in the market, compliance can no longer be ignored. Besides, while the number of listings are still limited, it is good time to gather testimonials to help the listings stay on top even when there are new players step in. As the bar is very high for reviews score, over 4.0 is considered to be the starting point to differentiate.
-4. Pricing can be a tricky part while it becomes more expensive to run an Airbnb listing, finding the right spot for pricing helps to improve the booking rate.
 
 ## Project outline
 ### Data cleaning
