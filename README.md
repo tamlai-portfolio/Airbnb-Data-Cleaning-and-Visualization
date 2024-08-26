@@ -1,9 +1,9 @@
 # Airbnb in Sydney data cleaning and exploratory analysis
 This project use the public data from Inside Airbnb (a non-commercial website that has scraping data of Airbnb listing in some cities).
 I choose Sydney dataset for this particular project with 2 datasets I have collected from 2021 and 2024 to have some comparison over time.
-Full-length article: (Airbnb Landscape in Sydney — Does less means more?) [https://medium.com/@tamlai.ftu/airbnb-landscape-in-sydney-does-less-means-more-add454cb54f4]
-Full interactive dashboard; (Sydney Airbnb Landscape) [https://tinyurl.com/PowerbiSydney-Airbnb]
-Full data cleaning, and calculation process: (Data cleaning.ipynb)[https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/cleaning_syd.ipynb]
+- Full-length presentation article: [Airbnb Landscape in Sydney — Does less means more?](https://medium.com/@tamlai.ftu/airbnb-landscape-in-sydney-does-less-means-more-add454cb54f4)
+- Full interactive dashboard: [Sydney Airbnb Landscape](https://tinyurl.com/PowerbiSydney-Airbnb)
+Full data cleaning, and calculation process: [Data cleaning.ipynb](https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/cleaning_syd.ipynb)
 
 ## Dataset overview
 The dataset include 3 main csv files and 1 geojson file for map illustration:
