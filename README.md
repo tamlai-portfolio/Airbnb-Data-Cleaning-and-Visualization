@@ -1,6 +1,9 @@
 # Airbnb in Sydney data cleaning and exploratory analysis
 This project use the public data from Inside Airbnb (a non-commercial website that has scraping data of Airbnb listing in some cities).
 I choose Sydney dataset for this particular project with 2 datasets I have collected from 2021 and 2024 to have some comparison over time.
+Full-length article: (Airbnb Landscape in Sydney — Does less means more?) [https://medium.com/@tamlai.ftu/airbnb-landscape-in-sydney-does-less-means-more-add454cb54f4]
+Full interactive dashboard; (Sydney Airbnb Landscape) [https://tinyurl.com/PowerbiSydney-Airbnb]
+Full data cleaning, and calculation process: (Data cleaning.ipynb)[https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/cleaning_syd.ipynb]
 
 ## Dataset overview
 The dataset include 3 main csv files and 1 geojson file for map illustration:
@@ -11,6 +14,12 @@ The dataset include 3 main csv files and 1 geojson file for map illustration:
 
 ## Problem statement
 What is the landscape of Airbnb listing in Sydney, Australia? What are the factors that affect the revenue of listings?
+
+## Findings and suggestions
+1. The new regulation on licensing come as both barrier and opportunity for Airbnb host in Sydney.
+2. For hosts who look to set foot into the market, it is obvious that demand is still very high and the market is now have less sturated than 3 years ago. Well-equipped of regulations knowledge and choosing right locations can provide a good headstart.
+3. For host who currently in the market, compliance can no longer be ignored. Besides, while the number of listings are still limited, it is good time to gather testimonials to help the listings stay on top even when there are new players step in. As the bar is very high for reviews score, over 4.0 is considered to be the starting point to differentiate.
+4. Pricing can be a tricky part while it becomes more expensive to run an Airbnb listing, finding the right spot for pricing helps to improve the booking rate.
 
 ## Project outline
 ### Data cleaning
