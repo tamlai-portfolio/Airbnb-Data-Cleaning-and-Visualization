@@ -85,4 +85,4 @@ This is also the hardest challenge for this project as there is no available dat
 4. For those that has 0 reviews in the last 12 months but still have booking in the next 365 days. The number of nights L12Ms will be deemed to equal to the number of nights that the listing is currenly booked in the next 90 days and accounting for the availability of each listing.
 
 ### Insights presentation:
-The presentation can be found at: [ ]
+The presentation can be found at: [Airbnb Landscape in Sydney — Does less means more?](https://medium.com/@tamlai.ftu/airbnb-landscape-in-sydney-does-less-means-more-add454cb54f4)
