@@ -3,7 +3,7 @@ This project use the public data from Inside Airbnb (a non-commercial website th
 I choose Sydney dataset for this particular project with 2 datasets I have collected from 2021 and 2024 to have some comparison over time.
 - Full-length presentation article: [Airbnb Landscape in Sydney — Does less means more?](https://medium.com/@tamlai.ftu/airbnb-landscape-in-sydney-does-less-means-more-add454cb54f4)
 - Full interactive dashboard: [Sydney Airbnb Landscape](https://tinyurl.com/PowerbiSydney-Airbnb)
-- Full data cleaning, and calculation process: [Data cleaning.ipynb](https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/cleaning_syd.ipynb)
+- Full data cleaning, and calculation process: [Data cleaning.ipynb](https://github.com/tamlai-portfolio/Airbnb-Data-Cleaning-and-Visualization/blob/main/Data%20cleaning.ipynb)
 
 ## Analysis excecutive summary
 
